@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Luxu</h1>
 
-<!--
-**Luxru/Luxru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luxru" alt="luxru" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **MPPI for quadrotors**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **reinforcement learning & cv**
+
+- 👯 I’m looking to collaborate on **Quadrotor planning&control**
+
+- 🤝 I’m looking for help with **learning based mpc**
+
+- 📝 I regularly write articles on [luxru.top](luxru.top)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **lux@luxru.top**
+<!---
+- 📄 Know about my experiences [TODO](TODO)
 -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:lux@luxru.top">Luxru</a>
+</p>
+
+<h3 align="left">Top Skills:</h3>
+Robotics, C++, Golang, ROS, Python, React, Typescript, Kotlin
